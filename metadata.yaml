@@ -1,0 +1,24 @@
+_repo: Die-Gnadenwahl-Erzahlung_52327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thies, Hans Arthur
+    birthdate: 1893
+    deathdate: 1954
+    gutenberg_agent_id: '46793'
+    url: http://www.gutenberg.org/2009/agents/46793
+description: ''
+gutenberg_issued: '2016-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52327'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 20th century'
+- GITenberg
+title: 'Die Gnadenwahl: Erzählung'
+url: http://www.gutenberg.org/ebooks/52327
